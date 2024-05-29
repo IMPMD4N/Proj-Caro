@@ -1,0 +1,56 @@
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\Co caro.exe.config
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\Co caro.exe
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\Co caro.pdb
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\obj\Debug\Co caro.csproj.AssemblyReference.cache
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\obj\Debug\Co_caro.Properties.Resources.resources
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\obj\Debug\Co caro.csproj.GenerateResource.cache
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\obj\Debug\Co caro.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\obj\Debug\Co caro.exe
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\obj\Debug\Co caro.pdb
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\obj\Debug\Co_caro.Form1.resources
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\OpenCvSharp.Blob.dll
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\OpenCvSharp.dll
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\OpenCvSharp.pdb
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\OpenCvSharp.xml
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\OpenCvSharp.Blob.pdb
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\OpenCvSharp.Blob.xml
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\obj\Debug\Co_caro.Form2.resources
+D:\Tài Liệu\2023-2024\Kỳ 2\Lập trình ứng dụng\Project Cờ caro\Co caro\obj\Debug\Co caro.csproj.CopyComplete
+D:\Proj Caro\Co caro\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Proj Caro\Co caro\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\Proj Caro\Co caro\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Proj Caro\Co caro\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\Proj Caro\Co caro\bin\Debug\Co caro.exe.config
+D:\Proj Caro\Co caro\bin\Debug\Co caro.exe
+D:\Proj Caro\Co caro\bin\Debug\Co caro.pdb
+D:\Proj Caro\Co caro\bin\Debug\OpenCvSharp.Blob.dll
+D:\Proj Caro\Co caro\bin\Debug\OpenCvSharp.dll
+D:\Proj Caro\Co caro\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Proj Caro\Co caro\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\Proj Caro\Co caro\bin\Debug\OpenCvSharp.pdb
+D:\Proj Caro\Co caro\bin\Debug\OpenCvSharp.xml
+D:\Proj Caro\Co caro\bin\Debug\OpenCvSharp.Blob.pdb
+D:\Proj Caro\Co caro\bin\Debug\OpenCvSharp.Blob.xml
+D:\Proj Caro\Co caro\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\Proj Caro\Co caro\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Proj Caro\Co caro\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\Proj Caro\Co caro\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\Proj Caro\Co caro\obj\Debug\Co caro.csproj.AssemblyReference.cache
+D:\Proj Caro\Co caro\obj\Debug\Co_caro.Form1.resources
+D:\Proj Caro\Co caro\obj\Debug\Co_caro.Form2.resources
+D:\Proj Caro\Co caro\obj\Debug\Co_caro.Properties.Resources.resources
+D:\Proj Caro\Co caro\obj\Debug\Co caro.csproj.GenerateResource.cache
+D:\Proj Caro\Co caro\obj\Debug\Co caro.csproj.CoreCompileInputs.cache
+D:\Proj Caro\Co caro\obj\Debug\Co caro.csproj.CopyComplete
+D:\Proj Caro\Co caro\obj\Debug\Co caro.exe
+D:\Proj Caro\Co caro\obj\Debug\Co caro.pdb
